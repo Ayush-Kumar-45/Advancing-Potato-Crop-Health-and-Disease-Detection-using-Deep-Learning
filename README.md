@@ -80,10 +80,10 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 | F1-Score | 0.96 |
 
 <p align="center">
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Loss.png" width="420" style="border:2px solid #ccc"/>
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Accuracy.png" width="420" style="border:2px solid #ccc"/><br>
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Confusion Matrix 1.png" width="420" style="border:2px solid #ccc"/>
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/ROC Curve 1.png" width="420" style="border:2px solid #ccc"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Loss.png" width="320" style="border:2px solid #ccc"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Accuracy.png" width="320" style="border:2px solid #ccc"/><br>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Confusion Matrix 1.png" width="320" style="border:2px solid #ccc"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/ROC Curve 1.png" width="320" style="border:2px solid #ccc"/>
 </p>
 
 
