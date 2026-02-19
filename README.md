@@ -7,9 +7,9 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 
 ## 📄 Research Paper
 
-**Title:** Advancing Potato Crop Health and Disease Detection with Deep Learning  
+**Title:** **Advancing Potato Crop Health and Disease Detection with Deep Learning**
 **Authors:** Ayush Kumar, Naveen Kumar Tiwari, Abhishek Bajpai, BDK Patro  
-**Institution:** Rajkiya Engineering College, Kannauj, India  
+
 
 📊 Achieved **97.4% average accuracy** using 5-Fold Cross Validation.
 
