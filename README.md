@@ -7,7 +7,7 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 
 ## 📄 Research Paper
 
-**Title:** **Advancing Potato Crop Health and Disease Detection with Deep Learning**
+**Title:** Advancing Potato Crop Health and Disease Detection with Deep Learning
 **Authors:** Ayush Kumar, Naveen Kumar Tiwari, Abhishek Bajpai, BDK Patro  
 
 
@@ -15,6 +15,7 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 
 🔗 **DOI (Official Publication):** https://doi.org/10.1007/978-981-96-9083-1_12
 ---
+
 
 ## 🚀 Features
 
@@ -35,6 +36,10 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 | Early Blight | Fungal leaf disease |
 | Late Blight | Severe blight infection |
 
+## Sample Image
+<p align="center">
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/Sample Image.png" width="750">
+</p>
 ---
 
 ## 📂 Dataset
@@ -59,6 +64,10 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 - Fully connected dense layers  
 - Softmax output for classification  
 
+
+<p align="center">
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/Work Chart.png" width="750">
+</p>
 ---
 
 ## 📈 Performance
@@ -71,6 +80,19 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 | Recall | 0.97 |
 | F1-Score | 0.96 |
 
+<p align="center">
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Loss.png" width="420" style="border:2px solid #ccc"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Accuracy.png" width="420" style="border:2px solid #ccc"/><br>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Confusion Matrix 1.png" width="420" style="border:2px solid #ccc"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/ROC Curve 1.png" width="420" style="border:2px solid #ccc"/>
+</p>
+
+
+
+## Prediction Images
+<p align="center">
+<img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/Prediction Images.png" width="800"/>
+  </p>
 ### Comparison:
 
 | Model | Accuracy |
