@@ -1,5 +1,3 @@
-# Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning
-
 # 🥔 Potato Leaf Disease Detection Using Deep Learning (CNN)
 
 A deep learning-based automated system for detecting and classifying potato leaf diseases using a custom Convolutional Neural Network (CNN).  
