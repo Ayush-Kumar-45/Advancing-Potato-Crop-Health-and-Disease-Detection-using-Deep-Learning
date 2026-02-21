@@ -9,12 +9,11 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 
 ## Title: Advancing Potato Crop Health and Disease Detection with Deep Learning
 
-
-📊 Achieved **97.4% average accuracy** using 5-Fold Cross Validation.
+📊 Achieved **97.4% average accuracy** using 5-Fold Cross Validation  
 
 🔗 **DOI (Official Publication):** https://doi.org/10.1007/978-981-96-9083-1_12
----
 
+---
 
 ## 🚀 Features
 
@@ -35,10 +34,14 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 | Early Blight | Fungal leaf disease |
 | Late Blight | Severe blight infection |
 
-## Sample Image
+---
+
+## 📷 Sample Image
+
 <p align="center">
   <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/Sample Image.png" width="750">
 </p>
+
 ---
 
 ## 📂 Dataset
@@ -63,10 +66,10 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 - Fully connected dense layers  
 - Softmax output for classification  
 
-
 <p align="center">
   <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/Work Chart.png" width="750">
 </p>
+
 ---
 
 ## 📈 Performance
@@ -80,19 +83,23 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 | F1-Score | 0.96 |
 
 <p align="center">
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Loss.png" width="320" style="border:2px solid #ccc"/>
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Accuracy.png" width="320" style="border:2px solid #ccc"/><br>
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Confusion Matrix 1.png" width="320" style="border:2px solid #ccc"/>
-  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/ROC Curve 1.png" width="320" style="border:2px solid #ccc"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Loss.png" width="320"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Accuracy.png" width="320"/><br>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/Confusion Matrix 1.png" width="320"/>
+  <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/FOLD 1/ROC Curve 1.png" width="320"/>
 </p>
 
+---
 
+## 🔍 Prediction Results
 
-## Prediction Images
 <p align="center">
 <img src="Advancing-Potato-Crop-Health-and-Disease-Detection-using-Deep-Learning/Image Of Code/Prediction Images.png" width="800"/>
-  </p>
-### Comparison:
+</p>
+
+---
+
+## 📊 Model Comparison
 
 | Model | Accuracy |
 |------|---------|
@@ -100,18 +107,56 @@ This project identifies **Early Blight**, **Late Blight**, and **Healthy** potat
 | VGG16 | 95% |
 | CNN-Transformer | 95% |
 | EfficientRMT-Net | 96% |
-| Proposed CNN | 97.4% |
+| **Proposed CNN** | **97.4%** |
 
 ---
 
 ## 🛠 Technologies Used
 
-- Python  
-- TensorFlow / Keras  
-- NumPy  
-- OpenCV  
-- Scikit-learn  
-- Matplotlib  
+### 🧠 Deep Learning & ML
+- TensorFlow – neural network training  
+- Keras – model design API  
+- Custom CNN architecture  
+- Scikit-learn – metrics & cross-validation  
+
+### 📷 Image Processing
+- OpenCV – image handling  
+- Pillow (PIL) – resizing & transformations  
+- NumPy – numerical operations  
+
+### 📊 Visualization & Evaluation
+- Matplotlib – accuracy/loss plots  
+- Seaborn – confusion matrices & ROC curves  
+
+### ⚙ Development Environment
+- Python 3.8+  
+- Jupyter Notebook  
 
 ---
 
+## ☁️ Experimentation Platform
+
+All experiments were conducted using **Kaggle Notebooks** with GPU acceleration.
+
+### Environment:
+- NVIDIA GPU (P100 / T4)  
+- CUDA-enabled TensorFlow  
+- Preinstalled ML libraries  
+
+### Benefits:
+- Faster training  
+- Reproducible experiments  
+- Cloud-based dataset handling  
+
+---
+
+## 🌱 Applications
+
+- Smart farming systems  
+- Crop health monitoring  
+- Early disease diagnosis  
+- Precision agriculture tools  
+
+---
+
+⭐ If you find this work helpful, please star the repository!
